@@ -2,11 +2,11 @@
 
 > A dark theme for [Fluent Terminal](https://github.com/felixse/FluentTerminal).
 
-![Screenshot](https://raw.githubusercontent.com/vandreleal/dracula-fluent-terminal/master/screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-Go to `Settings > Themes` and import the file `Dracula.flutecolors`.
+All instructions can be found at [draculatheme.com/fluent-terminal](https://draculatheme.com/fluent-terminal).
 
 ## Team
 
